@@ -123,7 +123,7 @@ python main.py
 
 > 🥇 **1st Place Winner!**
 
-This project was built for the **NASA Space Apps Challenge**, a global hackathon focused on solving real space exploration problems using technology and creativity.
+This project was built for the **Gemini x Makers Hackathon (NASA-inspired space challenge)**, a  hackathon focused on solving real space exploration problems using technology and creativity.
 
 ---
 
