@@ -1,6 +1,6 @@
 # 🚀 Mars–Earth Intelligent Communication System
 
-> **NASA Space Apps Hackathon Project**
+> **Gemini x Makers Hackathon (NASA-inspired space challenge)**
 > A hardware-software communication system simulating intelligent light-based messaging between Mars and Earth using Morse code, LEDs, and servo-mounted photoresistors.
 
 ---
